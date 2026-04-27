@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.local
+
+# Runtime data
+data/sessions/
+.agent_sessions/
+logs/
+traces/
+
+# Knowledge base indexes
+data/vector_store/
+*.sqlite
+*.db
+
+# IDE
+.vscode/
+.idea/
