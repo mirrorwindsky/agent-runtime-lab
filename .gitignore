@@ -235,3 +235,6 @@ data/vector_store/
 # IDE
 .vscode/
 .idea/
+
+# Agents
+AGENTS.md
