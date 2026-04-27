@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 pytest-cache-files-*/
+.test_artifacts/
 cover/
 
 # Translations
